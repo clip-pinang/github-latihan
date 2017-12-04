@@ -42,7 +42,7 @@ Tampilan gambar **Menu Tiket** adalah form keluhan atau permintaan untuk client 
 
 Setelah semua data di isi lengkap klik tombol **submit**, di dalam menu tiket ada content menu diantaranya *Detail Notifikasi Tiket, List Tiket* seperti gambar berikut.
 #### 5. Tampilan Detail Notifikasi Tiket
-[![notif-tickets-helpdesk](/document/aplikasi/helpdesk/images/about-helpdesk.png/05-notif-tickets-helpdesk)](/document/aplikasi/helpdesk/images/about-helpdesk/05-notif-tickets-helpdesk.png)
+[![notif-tickets-helpdesk](/document/aplikasi/helpdesk/images/about-helpdesk/05-notif-tickets-helpdesk.png)](/document/aplikasi/helpdesk/images/about-helpdesk/05-notif-tickets-helpdesk.png)
 Tampilan gambar **Menu Notifikasi Tiket** adalah pemberitahuan pesan keluhan atau permintaan yang masuk dari client atau pengguna ke admin helpdesk.
 
 #### 6. Tampilan List Tiket
