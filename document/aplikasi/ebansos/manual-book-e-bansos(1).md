@@ -25,12 +25,9 @@ Pemberian hibah berupa uang, barang, dan jasa kepada pemerintah pusat atau pemer
 Pemberian hibah memenuhi kriteria paling sedikit:
 
 1. peruntukannya secara spesifik telah ditetapkan;
-2. bersifat tidak wajib, tidak mengikat atau tidak secara terus menerus setiap tahun anggaran sesuai dengan kemampuan keuangan Provinsi Banten  kecuali ditentukan lain oleh peraturan perundangundangan.
+2. bersifat tidak wajib, tidak mengikat atau tidak secara terus menerus setiap tahun anggaran sesuai dengan kemampuan keuangan Provinsi Banten kecuali ditentukan lain oleh peraturan perundangundangan.
 3. memberikan nilai manfaat bagi Pemerintah Provinsi Banten dalam mendukung terselenggaranya fungsi pemerintahan, pembangunan dan kemasyarakatan.
 4. memenuhi persyaratan penerima hibah.
-
-
-
 
 Pemberian bansos berupa uang dan barang kepada Anggota/kelompok masyarakat meliputi:
 1. individu, keluarga, dan/atau masyarakat yang mengalami keadaan yang tidak stabil sebagai akibat dari krisis sosial, ekonomi, politik, bencana, atau fenomena alam agar dapat memenuhi kebutuhan hidup minimum;
@@ -41,7 +38,7 @@ Melalui e-hibah bansos, seluruh masyarakat dan organisasi lingkup Provinsi Bante
 2. Ikut berpartisipasi dalam memonitor jalannya hibah bansos yang sudah disetujui oleh Pemerintah Provinsi Banten sehingga dapat turut memberikan masukan dan saran terkait pengelolaan hibah bansos tersebut.
 3. Ayo ajukan ide kreatif kalian tanpa rasa takut akan penyelewengan dana yang diturunkan. Kita semua bersama dapat menjadi yang ahli dalam Pembangunan Provinsi Banten, Karena berani transparansi itu JUARA!
 TAHAPAN e-hibah bansos
-Setiap organisasi lingkup Provinsi Banten dan masyarakat yang berdomisili di wilayah Provinsi Banten dapat mengajukan proposal hibah bansos melalui e-hibah bansos dengan mendaftarkan melalui aplikasi, dan mengirimkan kelengkapan dokumen secara langsung kepada Gubernur Banten melalui Organisasi Perangkat Daerah Provinsi Banten sesuai Pembidangannya. Setelah itu Pemerintah Provinsi Banten akan memverifikasi dokumen proposal yang disampaikan. 
+Setiap organisasi lingkup Provinsi Banten dan masyarakat yang berdomisili di wilayah Provinsi Banten dapat mengajukan proposal hibah bansos melalui e-hibah bansos dengan mendaftarkan melalui aplikasi, dan mengirimkan kelengkapan dokumen secara langsung kepada Gubernur Banten melalui Organisasi Perangkat Daerah Provinsi Banten sesuai Pembidangannya. Setelah itu Pemerintah Provinsi Banten akan memverifikasi dokumen proposal yang disampaikan.
 Tahapan pengelolaan selengkapnya sebagai berikut:
 1. Organisasi lingkup Provinsi Banten dan masyarakat yang berdomisili di wilayah Provinsi Banten menyerahkan kelengkapan dokumen secara langsung kepada Gubernur Banten Organisasi Perangkat Daerah Provinsi Banten sesuai Pembidangannya.
 2. Organisasi Perangkat Daerah Provinsi Banten sesuai Pembidangannya melakukan penerimaan dokumen, meregistrasi dokumen masuk, verifikasi kelengkapan proposal dan dokumen pendukung proposal tersebut, kemudian melakukan entry data melalui website e-hibah bansos.bantenprov.go.id.
@@ -63,19 +60,16 @@ Untuk memulai akses terhadap aplikasi **e-Bansos**, pertama-tama superadmin atau
 Dimana tampilan ini ada beberapa content menu diantaranya: Tentang aplikasi, super admin atau user akan diarahkan ketampilan login atau bisa juga klik menu login, seperti gambar dibawah ini.
 
 ### 2.Tampilan Tentang
-[![Tampilan-tentang](/document/aplikasi/ebansos/images/tampilan-tentang.png)](/document/aplikasi/ebansos/images/tampilan-tentang.png)
+[![Tampilan-tentang](/document/aplikasi/ebansos/images/tampilan-tentang-ebansos.png)](/document/aplikasi/ebansos/images/tampilan-tentang-ebansos.png)
 Tampilan gambar di atas adalah dimana user dapat melihat semua tentang e-bansos.
-
 
 ### 3.Tampilan Proposal Hibah
 [![Tampilan-proposal-hibah](/document/aplikasi/ebansos/images/tampilan-proposal-hibah.png)](/document/aplikasi/ebansos/images/tampilan-proposal-hibah.png)
 Tampilan gambar di atas adalah dimana Admin dapat melihat beberapa kegiatan e-Bansos yang sudah ada atau terealisasi.
 
-
 ### 4.Tampilan Peraturan
 [![Tampilan-peraturan](/document/aplikasi/ebansos/images/tampilan-peraturan.png)](/document/aplikasi/ebansos/images/tampilan-peraturan.png)
 Tampilan gambar di atas adalah dimana Admin bisa melihat peraturan yang sudah tercantum di e-Bansos.
-
 
 ### 5.Tampilan Lapor
 [![Tampilan-lapor](/document/aplikasi/ebansos/images/tampilan-lapor.png)](/document/aplikasi/ebansos/images/tampilan-lapor.png)
@@ -101,7 +95,7 @@ Isi username dan password yang sudah diberikan, dan klik tombol masuk. Setelah l
 [![tampilan-admin](/document/aplikasi/ebansos/images/tampilan-admin.png)](/document/aplikasi/ebansos/images/tampilan-admin.png)
 Dalam tampilan ini ada beberapa sub content menu diantaranya adalah:
 
-Dimana admin e-Bansos Provinsi Banten, bila mengklik sub-content menu yang tersedia content tentang, proposal hibah, koreksi, cms dan laporan.
+Dimana super admin e-Bansos Provinsi Banten, bila mengklik sub-content menu yang tersedia content tentang, proposal hibah, koreksi, cms dan laporan.
 ### 10.Menu Tampilan super admin Kategori Hibah e-Bansos
 [![tampilan-porposal-hibah](/document/aplikasi/ebansos/images/tampilan-proposal-hibah.png)](/document/aplikasi/ebansos/images/tampilan-proposal-hibah.png)
 Tampilan gambar **Menu Tampilan Kategori Hibah** adalah untuk mengetahui berbagai kegiatan sosial yang ada di e-Bansos seperti :
@@ -111,21 +105,20 @@ Tampilan gambar **Menu Tampilan Kategori Hibah** adalah untuk mengetahui berbaga
 4. pembuatan jalan tol
 5. pengobatan gratis
 
-
 #### 11. Tampilan super admin Status Hibah e-Bansos
-[![Status Hibah](/document/aplikasi/ebansos/images/status-hibah.png)](/document/aplikasi/ebansos/images/status-hibah.png)
-Tampilan gambar **Tampilan Status Hibah e-Bansos** adalah pemberitahuan pesan keluhan atau permintaan yang masuk dari client atau pengguna ke admin.
+[![tampilan super adminStatus Hibah](/document/aplikasi/ebansos/images/tampilan-superadmin-status-hibah.png)](/document/aplikasi/ebansos/images/tampilan-superadmin-status-hibah.png)
+Tampilan gambar **Tampilan Status Hibah e-Bansos** adalah pemberitahuan pesan keluhan atau permintaan yang masuk dari admin atau pengguna ke super admin.
 
-#### 12. Tampilan Mendaftar Hibah Masuk
-[![mendaftar-hibah](/document/aplikasi/ebansos/images/mendaftar-hibah.png)](/document/aplikasi/ebansos/images/mendaftar-hibah.png)
- **Tampilan Mendaftar Hibah Masuk ** adalah tampilan untuk user membuat laporan hibah bansos dimana user harus mengisi form untuk pendaftaran hibah bansos.
+#### 12. Tampilan Mendaftar Hibah e-bansos
+[![tampilan-mendaftar-hibah-e-bansos](/document/aplikasi/ebansos/images/tampilan-mendaftar-hibah-bansos.png)](/document/aplikasi/ebansos/images/tampilan-mendaftar-hibah-bansos.png)
+ **Tampilan Mendaftar Hibah Bansos ** adalah tampilan untuk admin membuat laporan hibah bansos dimana admin harus mengisi form untuk pendaftaran hibah bansos.
 
 ### 13. Menu super Admin
-[![admins-list-helpdesk](/document/aplikasi/helpdesk/images/about-helpdesk/07-admins-list-helpdesk.png)](/document/aplikasi/helpdesk/images/about-helpdesk/07-admins-list-helpdesk.png)
-Tampilan gambar **Menu super Admin** di atas adalah daftar nama-nama semua admin dari Dinas OPD Provinsi Banten, dan didalam menu admin ada tombol **Add New** dimana Super Admin bisa menambah Admin baru.
+[![Tampilan-menu-super-admin](/document/aplikasi/ebansos/images/tampilan-menu-super-admin.png)](/document/aplikasi/ebansos/images/tampilan-menu-super-admin.png)
+Tampilan gambar **Menu super Admin** di atas adalah daftar nama-nama semua menu e-bansos.
 
 #### 14. Tampilan super Admin
-[![add-new-admin-helpdesk](/document/aplikasi/helpdesk/images/about-helpdesk/08-add-new-admin-helpdesk.png)](/document/aplikasi/helpdesk/images/about-helpdesk/08-add-new-admin-helpdesk.png)
+[![Tampilan-super-admin](/document/aplikasi/ebansos/images/tampilan-super-admin.png)](/document/aplikasi/ebansos/images/tampilan-super-admin.png)
 Tampilan gambar **super Admin** adalah yang melakukan hanya bisa dilakukan oleh Super Admin, dengan mengisi lengkap form pada kolom yang tersedia:
 1. (User Name)
 2. (Password)
