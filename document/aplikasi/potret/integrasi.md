@@ -112,7 +112,7 @@ Dalam tabel ini user dapat melakukan test ketika melakukan konten menu *User*, a
 ### 3.4 Konten Menu Permission
 | Tampilan | URL/ Image | Ada | Tidak |
 | -------- | ---------------------------------------- | ---- | ----- |
-| Permission | [![Konten Menu Permission](/document/aplikasi/potret/images/uat/01-uat-login-epormas.png)](/document/aplikasi/potret/images/uat/012-tampilan-permission.png) | | |
+| Permission | [![Konten Menu Permission](/document/aplikasi/potret/images/uat/012-tampilan-permission.png)](/document/aplikasi/potret/images/uat/012-tampilan-permission.png) | | |
 | Form Permission | [![Create New Permission](/document/aplikasi/potret/images/uat/013-tampilan-create-new-permission.png)](/document/aplikasi/potret/images/uat/013-tampilan-create-new-permission.png) | | |
 
 Dalam tabel ini user dapat melakukan test ketika melakukan konten menu *Permission*, apakah sudah dapat diakses oleh user atau tidak. Untuk mengecek dapat diakses tidaknya, user dapat membuka url http://epormas-01.dev.bantenprov.go.id/admin/advancetrust/permission, dan url http://epormas-01.dev.bantenprov.go.id/admin/advancetrust/permission/create untuk *tambah permission*, jika sudah dapat diakses user dapat *ceklis* pada kolom **Ada**, jika belum dapat diakses maka user dapat *ceklis* pada kolom **Tidak**.
