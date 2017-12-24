@@ -21,7 +21,7 @@ Epormas Web adalah aplikasi untuk pengaduan yang membantu pemerintah Provinsi Ba
 #### 2.1.1 Cara Penggunaan
 Untuk memulai akses terhadap aplikasi **Epormas** Provinsi Banten, pertama-tama user atau pengguna buka web browser (IE, Mozila Firefox atau yang lainnya) dengan menulis alamat url http://epormas-01.dev.bantenprov.go.id kemudian tekan **Enter** pada tombol keyboard atau klik tombol **Go** pada browser komputer.
 #### 2.1.2 Sruktur Menu
-Adapun struktur menu pada setelah membuka Aplikasi *Epormas web* Provinsi Banten adalah sebagai berikut:
+Adapun struktur menu setelah membuka Aplikasi *Epormas web* Provinsi Banten adalah sebagai berikut:
 - **Menu Home**
 - **Menu Map**
 - **Menu Tabel Laporan Warga**
@@ -34,7 +34,7 @@ Adapun struktur menu pada setelah membuka Aplikasi *Epormas web* Provinsi Banten
 [![Galery Foto Jembatan](/document/aplikasi/potret/images/integrasi/02-epormas-web-contoh-galery-foto.png)](/document/aplikasi/potret/images/integrasi/02-epormas-web-contoh-galery-foto.png)
 **Gambar 2**. Contoh kategori galery foto yang ada di menu home
 
-**Gambar 1** adalah dashboard atau tampilan awal ketika pengguna menjalan atau memakai aplikasi Epormas Web, dimana pengguna atau masyarakat dapat melihat macam-macam gambar atau galery foto saran, keluhan beserta informasi yang dialami oleh masyarakat, seperti contoh **gambar 2** adalah kategori galery foto keluhan, saran atau informasi dari masyarakat yaitu tentang *jembatan*.
+**Gambar 1** adalah dashboard atau tampilan awal ketika pengguna menjalan atau memakai aplikasi Epormas Web, dimana pengguna atau masyarakat dapat melihat macam-macam gambar atau galery foto saran, keluhan beserta informasi yang dialami oleh masyarakat, seperti contoh **gambar 2** adalah contoh kategori galery foto keluhan, saran atau informasi dari masyarakat yaitu tentang *jembatan*.
 
 ##### 2.1.2.2 Menu Map
 [![tampilan-maps](/document/aplikasi/potret/images/integrasi/03-epormas-web-map.png)](/document/aplikasi/potret/images/integrasi/03-epormas-web-map.png)
@@ -150,8 +150,9 @@ Sebelum pengguna melakukan install aplikasi, pertama-tama device atau handphone 
 
 ### 2.3 Login Admin
 #### 2.3.1 Cara penggunaan
-##### 2.3.1.1 Login
 Untuk memulai akses login admin, pertama-tama user atau Admin harus membuka web browser (IE, Mozila Firefox atau yang lainnya) dengan menulis alamat url http://epormas-01.dev.bantenprov.go.id/login kemudian tekan **Enter** pada tombol keyboard atau klik tombol **Go** pada browser komputer, akan menampilkan seperti gambar dibawah ini.
+
+##### 2.3.1.1 Login
 [![Login Admin](/document/aplikasi/potret/images/integrasi/06-epormas-web-login-admin.png)](/document/aplikasi/potret/images/integrasi/06-epormas-web-login-admin.png)
 **Gambar 24**. Tampilan Login
 
@@ -179,7 +180,7 @@ Untuk memulai akses login admin, pertama-tama user atau Admin harus membuka web 
 [![Berita Admin ](/document/aplikasi/potret/images/integrasi/10-epormas-web-form-opd.png)](/document/aplikasi/potret/images/integrasi/10-epormas-web-form-opd.png)
 **Gambar 28**. Form OPD
 
-**Gambar 28** adalah dimana tampilan ketika admin atau Superadmin mengklik tombol **Add New OPD** yang ada di menu OPD list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Submit** untuk menyimpan penambahan OPD, atau klik tombol **Back** untuk membatalkan.
+**Gambar 28** adalah tampilan dimana ketika Superadmin atau admin mengklik tombol **Add New OPD** yang ada di menu OPD list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Submit** untuk menyimpan penambahan OPD, atau klik tombol **Back** untuk membatalkan.
 
 ##### 2.3.1.5 Menu User
 [![User List](/document/aplikasi/potret/images/integrasi/11-epormas-web-user-list.png)](/document/aplikasi/potret/images/integrasi/11-epormas-web-user-list.png)
@@ -191,7 +192,7 @@ Untuk memulai akses login admin, pertama-tama user atau Admin harus membuka web 
 [![Form User](/document/aplikasi/potret/images/integrasi/12-epormas-web-form-user.png)](/document/aplikasi/potret/images/integrasi/12-epormas-web-form-user.png)
 **Gambar 30**. Form User
 
-**Gambar 30** adalah dimana tampilan ketika admin atau Superadmin mengklik tombol **+user** yang ada di menu user list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Simpan** untuk menyimpan penambahan user, atau klik tombol **Cancel** untuk membatalkan.
+**Gambar 30** adalah tampilan dimana ketika Superadmin atau admin mengklik tombol **+user** yang ada di menu user list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Simpan** untuk menyimpan penambahan user, atau klik tombol **Cancel** untuk membatalkan.
 
 ##### 2.3.1.6 Permission
 [![Permission List](/document/aplikasi/potret/images/integrasi/13-epormas-web-permission-list.png)](/document/aplikasi/potret/images/integrasi/13-epormas-web-permission-list.png)
@@ -203,7 +204,7 @@ Untuk memulai akses login admin, pertama-tama user atau Admin harus membuka web 
 [![Form Permission](/document/aplikasi/potret/images/integrasi/14-epormas-web-form-permission.png)](/document/aplikasi/potret/images/integrasi/14-epormas-web-form-permission.png)
 **Gambar 32**. Form Permission
 
-**Gambar 32** adalah dimana tampilan ketika admin atau Superadmin mengklik tombol **Add Permission** yang ada permission list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh super admin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan user permission, atau klik tombol **Back** untuk kembali ketampilan list permission.
+**Gambar 32** adalah tampilan dimana ketika Superadmin atau admin mengklik tombol **Add Permission** yang ada permission list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh super admin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan user permission, atau klik tombol **Back** untuk kembali ketampilan list permission.
 
 ##### 2.3.1.7 Role
 [![Role List](/document/aplikasi/potret/images/integrasi/15-epormas-web-role-list.png)](/document/aplikasi/potret/images/integrasi/15-epormas-web-role-list.png)
@@ -215,19 +216,19 @@ Untuk memulai akses login admin, pertama-tama user atau Admin harus membuka web 
 [![Role List](/document/aplikasi/potret/images/integrasi/16-epormas-web-form-role.png)](/document/aplikasi/potret/images/integrasi/16-epormas-web-form-role.png)
 **Gambar 34**. Form Role
 
-**Gambar 34** adalah dimana tampilan ketika admin atau Superadmin mengklik tombol **Add Role** yang ada di role list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan role , atau klik tombol **Back** untuk kembali ketampilan list role.
+**Gambar 34** adalah tampilan dimana ketika Superadmin atau admin mengklik tombol **Add Role** yang ada di role list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan role , atau klik tombol **Back** untuk kembali ketampilan list role.
 
-##### 2.3.1.8 Workflows
+##### 2.3.1.8 Workflows List
 [![Workflows](/document/aplikasi/potret/images/integrasi/17-epormas-web-workflow-list.png)](/document/aplikasi/potret/images/integrasi/17-epormas-web-workflow-list.png)
 **Gambar 35**. Workflows List
 
-**Gambar 35** adalah tampilan workflows list dari semua  yang ada di dalam database sistem, yang sebelumnya sudah di input oleh superadmin dan admin
+**Gambar 35** adalah tampilan semua workflows list  yang ada di dalam database sistem, yang sebelumnya sudah di input oleh superadmin dan admin
 
-###### 2.3.1.8.1 Form Workflows
+###### 2.3.1.8.1 Workflows Add Form
 [![Form Workflows](/document/aplikasi/potret/images/integrasi/18-epormas-web-form-workflows.png)](/document/aplikasi/potret/images/integrasi/18-epormas-web-form-workflows.png)
 **Gambar 36**. Form Workflows
 
-**Gambar 36** adalah dimana tampilan ketika admin atau Superadmin mengklik tombol **Add New Workflows** yang ada di workflows list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan workflows , atau klik tombol **Back** untuk kembali ketampilan list workflows.
+**Gambar 36** adalah tampilan dimana ketika Superadmin atau admin mengklik tombol **Add New Workflows** yang ada di workflows list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan workflows , atau klik tombol **Back** untuk kembali ketampilan list workflows.
 
 ##### 2.3.1.9 State List
 [![State List](/document/aplikasi/potret/images/integrasi/19-epormas-web-state-list.png)](/document/aplikasi/potret/images/integrasi/19-epormas-web-state-list.png)
@@ -235,11 +236,11 @@ Untuk memulai akses login admin, pertama-tama user atau Admin harus membuka web 
 
 **Gambar 37** adalah tampilan tentang state list  yang ada di dalam database sistem, yang sebelumnya sudah di input oleh superadmin dan admin
 
-###### 2.3.1.9.1 Add State
+###### 2.3.1.9.1 State Add Form
 [![Add State](/document/aplikasi/potret/images/integrasi/20-epormas-web-form-state.png)](/document/aplikasi/potret/images/integrasi/20-epormas-web-form-state.png)
-**Gambar 38**. Form State
+**Gambar 38**. State Add Form
 
-**Gambar 38** adalah dimana tampilan ketika admin atau Superadmin mengklik tombol **Add New State** yang ada di state list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh super admin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan state , atau klik tombol **Back** untuk kembali ketampilan state list.
+**Gambar 38** adalah tampilan dimana ketika Superadmin atau admin mengklik tombol **Add New State** yang ada di state list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh super admin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan state , atau klik tombol **Back** untuk kembali ketampilan state list.
 
 ##### 2.3.1.10 Transition List 
 [![Transition List](/document/aplikasi/potret/images/integrasi/21-epormas-web-transition-list.png)](/document/aplikasi/potret/images/integrasi/21-epormas-web-transition-list.png)
@@ -247,11 +248,11 @@ Untuk memulai akses login admin, pertama-tama user atau Admin harus membuka web 
 
 **Gambar 39**. adalah tampilan gambar tentang transition list yang ada di dalam database sistem, yang sebelumnya sudah di input oleh superadmin dan admin
 
-###### 2.3.1.10.1 Transition Form
+###### 2.3.1.10.1 Transition Add Form
 [![Transition Add Form](/document/aplikasi/potret/images/integrasi/22-epormas-web-from-transition.png)](/document/aplikasi/potret/images/integrasi/22-epormas-web-from-transition.png)
-**Gambar 40**. Transition Form.
+**Gambar 40**. Transition Add Form.
 
-**Gambar 40** adalah dimana tampilan ketika admin atau Superadmin mengklik tombol **Add New Transition** yang ada di transition list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan transition , atau klik tombol **Back** untuk kembali ketampilan transition list.
+**Gambar 40** adalah tampilan dimana ketika Superadmin atau admin mengklik tombol **Add New Transition** yang ada di transition list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan transition , atau klik tombol **Back** untuk kembali ketampilan transition list.
 
 ##### 2.3.1.11 Guard List 
 [![Guard List](/document/aplikasi/potret/images/integrasi/23-epormas-web-guard-list.png)](/document/aplikasi/potret/images/integrasi/23-epormas-web-guard-list.png)
@@ -259,11 +260,11 @@ Untuk memulai akses login admin, pertama-tama user atau Admin harus membuka web 
 
 **Gambar 41**. adalah tampilan gambar tentang guard list yang ada di dalam database sistem, yang sebelumnya sudah di input oleh superadmin dan admin
 
-###### 2.3.1.11.1 Form Guard
+###### 2.3.1.11.1 Workflows Guard
 [![Form Guard](/document/aplikasi/potret/images/integrasi/24-epormas-web-form-guard.png)](/document/aplikasi/potret/images/integrasi/24-epormas-web-form-guard.png)
-**Gambar 42**. Transition Form.
+**Gambar 42**. Guard Add Form.
 
-**Gambar 42** adalah dimana tampilan ketika admin atau Superadmin mengklik tombol **Add New Guard** yang ada di guard list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan guard , atau klik tombol **Back** untuk kembali ketampilan guard list.
+**Gambar 42** adalah tampilan dimana ketika Superadmin atau admin mengklik tombol **Add New Guard** yang ada di guard list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan guard , atau klik tombol **Back** untuk kembali ketampilan guard list.
 
 ##### 2.3.1.12 Attachment List 
 [![Attachment List](/document/aplikasi/potret/images/integrasi/25-epormas-web-attachment-list.png)](/document/aplikasi/potret/images/integrasi/25-epormas-web-attachment-list.png)
@@ -271,8 +272,8 @@ Untuk memulai akses login admin, pertama-tama user atau Admin harus membuka web 
 
 **Gambar 43**. adalah tampilan gambar tentang attachment list yang ada di dalam database sistem, yang sebelumnya sudah di input oleh superadmin dan admin
 
-###### 2.3.1.12.1 Form Attachment
+###### 2.3.1.12.1 Workflows Attachment
 [![Form Attachment](/document/aplikasi/potret/images/integrasi/26-epormas-web-form-attachment.png)](/document/aplikasi/potret/images/integrasi/26-epormas-web-form-attachment.png)
-**Gambar 44**. Form Attachment.
+**Gambar 44**. Attachment Add Form
 
-**Gambar 44** adalah dimana tampilan ketika admin atau Superadmin mengklik tombol **Add New Attachment** yang ada di attachment list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan attachment , atau klik tombol **Back** untuk kembali ketampilan attachment list.
+**Gambar 44** adalah tampilan dimana ketika Superadmin atau admin mengklik tombol **Add New Attachment** yang ada di attachment list, sistem aplikasi akan menampilkan form kolom yang akan diisi oleh superadmin atau admin, setelah di isi lengkap klik tombol **Add** untuk menyimpan penambahan attachment , atau klik tombol **Back** untuk kembali ketampilan attachment list.
