@@ -34,13 +34,13 @@ Adapun struktur menu pada setelah membuka Aplikasi *Epormas web* Provinsi Banten
 [![Galery Foto Jembatan](/document/aplikasi/potret/images/integrasi/02-epormas-web-contoh-galery-foto.png)](/document/aplikasi/potret/images/integrasi/02-epormas-web-contoh-galery-foto.png)
 **Gambar 2**. Contoh kategori galery foto yang ada di menu home
 
-**Gambar 1** adalah dashboard atau tampilan awal ketika pengguna menjalan atau memakai aplikasi Epormas Web, dimana pengguna atau masyarakat dapat melihat macam-macam gambar atau galery foto saran, keluhan beserta informasi yang dialami oleh masyarakat, seperti contoh **gambar 2** adalah kategori galery foto keluhan, saran atau informasi dari masyarakat yaitu tentang *sarana jembatan*.
+**Gambar 1** adalah dashboard atau tampilan awal ketika pengguna menjalan atau memakai aplikasi Epormas Web, dimana pengguna atau masyarakat dapat melihat macam-macam gambar atau galery foto saran, keluhan beserta informasi yang dialami oleh masyarakat, seperti contoh **gambar 2** adalah kategori galery foto keluhan, saran atau informasi dari masyarakat yaitu tentang *jembatan*.
 
 ##### 2.1.2.2 Menu Map
 [![tampilan-maps](/document/aplikasi/potret/images/integrasi/03-epormas-web-map.png)](/document/aplikasi/potret/images/integrasi/03-epormas-web-map.png)
 **Gambar 3**. Tampilan Maps 
 
-**Gambar 3** adalah tampilan yang menjelaskan tentang maps titik peta-peta lokasi berdasarkan GPS laporan dari semua masyarakat Provinsi Banten yang sudah masuk ke database sistem aplikasi.
+**Gambar 3** adalah tampilan yang menjelaskan tentang maps atau peta titik lokasi berdasarkan GPS laporan dari semua masyarakat Provinsi Banten yang sudah masuk ke dalam database sistem aplikasi.
 
 ##### 2.1.2.3 Menu Tabel Laporan Warga
 [![Tabel Laporan Warga](/document/aplikasi/potret/images/integrasi/04-epormas-web-tabel-laporan-warga.png)](/document/aplikasi/potret/images/integrasi/04-epormas-web-tabel-laporan-warga.png)
@@ -59,11 +59,11 @@ Adapun struktur menu pada setelah membuka Aplikasi *Epormas web* Provinsi Banten
 **Gambar 6** adalah form input untuk laporan pengaduan atau keluhan warga atau masyarakat Provinsi Banten, yang harus diisi lengkap sesuai dengan form kolom yang tersedia, jika sudah lengkap klik icon tombol *Kirim Laporan*, jika terdapat kesalahan dalam pengisian baik sudah lengkap maupun kurang lengkap pengisian data, maka secara otomatis akan kembali kedalam page form input.
 
 ### 2.2 Epormas Android
-Epormas Android adalah aplikasi untuk mobile device berbasis sistem android,  yang membantu pemerintah Provinsi Banten untuk mengelola setiap pengaduan masyarakat, dan membantu atau mempermudah masyarakat yang semula dilakukan dengan cara manual karena harus datang ke kantor pemerintahan terlebih dahulu dan sekarang bisa dilakukan secara online, seperti masalah Jalan Raya, Pendidikan, Jembatan, Pariwisata, Permukiman dan Lahan, Gedung dan Pemerintahan, Pemuda dan Olahraga, dan Kesehatan. Pengaduan itu sendiri berbentuk formulir yang harus diisi, setelah masyarakat melakukan pengaduan atau mengirim data yang ada, maka aplikasi akan menyimpan setiap pengaduan ke dalam database.
+Epormas Android adalah aplikasi untuk mobile device berbasis sistem android,  yang membantu pemerintah Provinsi Banten untuk mengelola setiap pengaduan masyarakat, dan membantu atau mempermudah masyarakat yang semula dilakukan dengan cara manual karena harus datang ke kantor pemerintahan terlebih dahulu dan sekarang bisa dilakukan secara online, seperti masalah *Jalan Raya, Pendidikan, Jembatan, Pariwisata, Permukiman dan Lahan, Gedung dan Pemerintahan, Pemuda dan Olahraga, dan Kesehatan*. Pengaduan itu sendiri berbentuk formulir yang harus diisi, setelah masyarakat melakukan pengaduan atau mengirim data yang ada, maka aplikasi akan menyimpan setiap pengaduan ke dalam database.
 
 #### 2.2.1 Cara Penggunaan 
 ##### 2 2.1.1 Install Aplikasi
-Sebelum pengguna melakukan install aplikasi, pertama-tama device atau handphone yang berbasis sistem android  masuk ke menu settings -> Security -> gulir kebawah dan beri tanda centang pada “Unknown sources”, kemudian pilih OK ketika ada peringatan keluar, setelah itu pengguna kembali ke menu home dan pilih aplikasi *playstore*, untuk mendownload aplikasi user pengguna dengan menulis kata kunci di tombol pencarian *Potret Banten* atau *enstra media*, setelah itu klik tombol *download* dan *install*, seperti gambar dibawah ini
+Sebelum pengguna melakukan install aplikasi, pertama-tama device atau handphone yang berbasis sistem android  masuk ke menu settings -> Security -> gulir kebawah dan beri tanda centang pada “Unknown sources”, kemudian pilih OK ketika ada peringatan keluar, setelah itu pengguna kembali ke menu home dan pilih aplikasi *playstore*. Untuk mendownload aplikasi user pengguna menulis di tombol pencarian dengan kata kunci *Potret Banten* atau *enstra media*, setelah pencarian dapat ditemukan klik tombol *download* dan *install*, seperti gambar dibawah ini
 [![Install Aplikasi](/document/aplikasi/potret/images/integrasi/27-epormas-android-install-apk.png)](/document/aplikasi/potret/images/integrasi/27-epormas-android-install-apk.png)
 **Gambar 7**. Tampilan Install Aplikasi.
 
@@ -72,22 +72,22 @@ Sebelum pengguna melakukan install aplikasi, pertama-tama device atau handphone 
 [![Aplikasi Membaca Device](/document/aplikasi/potret/images/integrasi/28-epormas-android-awal-baca-device.png)](/document/aplikasi/potret/images/integrasi/28-epormas-android-awal-baca-device.png)
 **Gambar 8**. Tampilan setelah Install Aplikasi.
 
-**Gambar 8** adalah tampilan awal ketika pengguna sudah melakukan install aplikasi, dan sistem aplikasi akan melakukan proses pengecekan device id ke dalam database. kalo device id ada di dalam database akan langsung di tampilkan layout dashboard aplikasi (pengguna sebelumnya sudah melakukan un-install dan install dengan menggunakan device yang sama)
+**Gambar 8** adalah tampilan awal ketika pengguna sudah melakukan install aplikasi, dan sistem aplikasi akan melakukan proses pengecekan device id ke dalam database. Dimana device id ada di dalam database akan langsung di tampilkan layout dasboard aplikasi (pengguna sebelumnya sudah melakukan un-install dan install kembali dengan menggunakan device yang sama)
 
 [![Install Aplikasi](/document/aplikasi/potret/images/integrasi/29-epormas-android-baca-device.png)](/document/aplikasi/potret/images/integrasi/29-epormas-android-baca-device.png)
-**Gambar 9**. Tampilan Id Device tidak ada 
+**Gambar 9**. Tampilan id device tidak ada 
 
 **Gambar 9** adalah tampilan sistem aplikasi tidak menemukan device id didalam database, didalam layout ini ada hasil dari pengecekan device id yang mana ada pilihan login dengan memakai *NIK & Password, Nomor Telepon atau Handpone dan Pasword, dan pilihan untuk Registrasi Sekarang*.
 
 [![Install Aplikasi](/document/aplikasi/potret/images/integrasi/30-epormas-android-registrasi-nik.png)](/document/aplikasi/potret/images/integrasi/30-epormas-android-registrasi-nik.png)
 **Gambar 10**. Tampilan registrasi NIK
 
-**Gambar 10** adalah pengguna memilih login pake *NIK* maka akan muncul layout input NIK dan input password keduanya tidak boleh kosong, tombol masuk di pojok kanan bawah fungsinya untuk mulai pengecekan NIK dan Password di dalam database, bilamana datanya ada, aplikasi langsung mengganti device id lama dengan device id baru dan langsung muncul dashboard aplikasi, bilamana gagal akan tampil seperti *gambar 9*
+**Gambar 10** adalah pengguna memilih login pake *NIK* maka akan muncul layout input NIK dan input password keduanya tidak boleh kosong, tombol masuk di pojok kanan bawah fungsinya untuk mulai pengecekan NIK dan Password di dalam database, bilamana datanya ada, aplikasi langsung mengganti device id lama dengan device id baru dan langsung muncul dashboard aplikasi, bilamana gagal akan tampil seperti **gambar 9**
 
 [![Install Aplikasi](/document/aplikasi/potret/images/integrasi/31-epormas-android-registrasi-no-hp.png)](/document/aplikasi/potret/images/integrasi/31-epormas-android-registrasi-no-hp.png)
 **Gambar 11**. Tampilan Registrasi Nomor Handphone
 
-**Gambar 11** adalah pengguna memilih login *No Handpone* maka akan menampilkan layout input nomor handpnone dan input password, keduanya tidak boleh kosong, tombol masuk di pojok kanan bawah fungsinya untuk mulai pengecekan Nomor Handphone dan Password di dalam database, bilamana datanya ada, aplikasi langsung mengganti device id lama dengan device id baru dan langsung muncul dashboard aplikasi, bilamana gagal akan tampil seperti *gambar 9*
+**Gambar 11** adalah pengguna memilih login *No Handpone* maka akan menampilkan layout input nomor handpnone dan input password, keduanya tidak boleh kosong, tombol masuk di pojok kanan bawah fungsinya untuk mulai pengecekan Nomor Handphone dan Password di dalam database, bilamana datanya ada, aplikasi langsung mengganti device id lama dengan device id baru dan langsung muncul dashboard aplikasi, bilamana gagal akan tampil seperti **gambar 9**
 
 [![Form Registrasi](/document/aplikasi/potret/images/integrasi/32-epormas-android-registrasi.png)](/document/aplikasi/potret/images/integrasi/32-epormas-android-registrasi.png)
 **Gambar 12**. Tampilan Registrasi
