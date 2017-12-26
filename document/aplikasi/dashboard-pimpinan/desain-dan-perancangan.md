@@ -1,7 +1,7 @@
 ---
 layout: document
-title: Desain dan Perancangan
-description: Sistem Dashboard merupakan suatu sistem berbasis komputer yang dapat membantu suatu pemerintahan untuk meningkatkan kinerja dalam pengambilan keputusan dan memecahkan masalah yang umumnya berada di dalam wilayah dengan dimensi yang beragam.
+title: Desain dan Perancangan Dashboard Pimpinan
+description: Desain dan perancangan untuk aplikasi dashboard pimpinan yang digunakan pada Provinsi Banten.
 group: aplikasi
 cat: dashboard-pimpinan
 toc: true
@@ -10,12 +10,28 @@ toc: true
 [![cover-dashboard-pimpinan](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/cover-dashboard-pimpinan.jpeg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/cover-dashboard-pimpinan.jpeg)
 
 ## ABSTRAK
-Sistem Dashboard merupakan suatu sistem berbasis komputer yang dapat membantu suatu pemerintahan untuk meningkatkan kinerja dalam pengambilan keputusan dan memecahkan masalah yang umumnya berada di dalam wilayah dengan dimensi yang beragam. Sistem informasi sekarang sudah banyak tersedia di berbagai pemerintahan bertujuan untuk mewujudkan visi dan misi pemerintahan. Dewasa ini perkembangan teknologi komputer sangatlah pesat. Dengan menggunakan aplikasi komputer akan didapat informasi mengenai suatu tampilan objek yang ditampilkan lebih hidup dan menarik. Adanya kemajuan teknologi ini memungkinkan Sistem aplikasi Dashboard dapat memberikan jalan yang terbaik dan lebih menarik untuk masyarakat. dengan adanya Sistem aplikasi Dashboard Pemerintahan Provinsi Banten Berbasis Web mampu memberikan keputusan terbaik dalam melakukan pemantauan dalam laporan.
+[document](https://github.com/bantenprov/document-management-system/tree/master/document)Sistem Dashboard merupakan suatu sistem berbasis komputer yang dapat membantu suatu pemerintahan untuk meningkatkan kinerja dalam pengambilan keputusan dan memecahkan masalah yang umumnya berada di dalam wilayah dengan dimensi yang beragam. Sistem informasi sekarang sudah banyak tersedia di berbagai pemerintahan bertujuan untuk mewujudkan visi dan misi pemerintahan. Dewasa ini perkembangan teknologi komputer sangatlah pesat. Dengan menggunakan aplikasi komputer akan didapat informasi mengenai suatu tampilan objek yang ditampilkan lebih hidup dan menarik. Adanya kemajuan teknologi ini memungkinkan Sistem aplikasi Dashboard dapat memberikan jalan yang terbaik dan lebih menarik untuk masyarakat. dengan adanya Sistem aplikasi Dashboard Pemerintahan Provinsi Banten Berbasis Web mampu memberikan keputusan terbaik dalam melakukan pemantauan dalam laporan.
 
 ## DAFTAR ISI
-
-* Will be replaced with the ToC, excluding the "Contents" header
-{:toc}
+**Halaman Judul**
+**Abstrak**
+**Daftar Isi**
+**1. PENDAHULUAN**
+1.1 Latar Belakang
+1.2 Maksud dan Tujuan
+1.3 Ruang Lingkup Pekerjaan
+1.4 Ruang Lingkup Sistem Informasi / Aplikasi
+1.5 Keluaran yang diinginkan
+1.6 Waktu dan Jadwal Pelaksanaan dan Lokasi Kegiatan
+**2. METODE PENELITIAN**
+2.1 Metode Yang digunakan
+2.2 Metode Pengumpulan Data
+**3. HASIL PEMBAHASAN**
+3.1 Perencanaan Aplikasi
+3.2 Perancangan Sistem
+3.3 Tahapan Pekerjaan
+3.4 Hasil
+**4. PENUTUP**
 
 ## 1. PENDAHULUAN
 
@@ -87,7 +103,9 @@ Permodelan rancangan sistem yang digunakan adalah UML (Unified Modeling Language
 #### 3.2.2.7. Activity Diagram Input Data Admin
 [![activity-diagram-input-data-admin](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-input-data-admin.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-input-data-admin.jpg)
 #### 3.2.2.8 Activity Diagram Edit Data Admin
+#### ini edit
 [![activity-diagram-edit-data-admin](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-edit-data-admin.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-edit-data-admin.jpg)
+
 #### 3.2.2.9 Activity Diagram Delete Data Admin
 [![activity-diagram-delete-data-admin](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-delete-data-admin.jpg)](/document/aplikasi/dashboard-pimpinan/images/desain-dan-perancangan/activity-diagram-delete-data-admin.jpg)
 #### 3.2.2.10 Activity Diagram View Data Admin
@@ -157,6 +175,7 @@ Tahap-tahap atau langkah yang dilakukan dalam mengembangkan Sistem Informasi Das
 #### a) Analisis dan Perancangan
 1). Analisis
 Tim pengembang aplikasi akan melakukan analisis jika diperlukan dapat dilakukan survey pendahuluan untuk melihat sejauh mana kebutuhan pengguna akan sistem yang akan dibangun, data-data yang dibutuhkan, dll. Dalam analisis ini dilakukana diskusi-diskusi baik dengan bagian terkait pada satuan kerja.
+
 2). Perancangan Sistem
 Perancangan sistem dilaksanakan setelah proses analisis dilaksanakan dan telah disepakati modul dan prosedur-prosedur yang akan diterapkan dalam sistem. Perancangan sistem meliputi kegiatan: penetapan alur data/dokumen, penetapan prosedur, perancangan database, perancangan form dan perancangan interface/dialog layar.
 #### b) Pembangunan Sistem
