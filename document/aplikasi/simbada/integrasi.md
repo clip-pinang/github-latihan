@@ -93,7 +93,7 @@ Dalam tabel ini user dapat melakukan test daftar pengguna apakah sudah dapat di 
 
 | Tampilan          | URL/ Image                               | Ada  | Tidak |
 | ----------------- | ---------------------------------------- | ---- | ----- |
-| Konten Permission | [![Tampilan Konten Permission](/document/aplikasi/simbada/images/integrasi/06-integrasitampilan-permission.png)](/document/aplikasi/simbada/images/integrasi/06-tampilan-permission.png) |      |       |
+| Konten Permission | [![Tampilan Konten Permission](/document/aplikasi/simbada/images/integrasi/06-tampilan-permission.png)](/document/aplikasi/simbada/images/integrasi/06-tampilan-permission.png) |      |       |
 
 Dalam tabel ini user dapat melakukan test permission apakah sudah dapat di akses oleh user atau tidak, jika sudah dapat di akses maka user dapat ceklis pada kolom ada, jika belum dapat di akses maka user dapat ceklis pada kolom tidak
 
@@ -502,7 +502,7 @@ Dalam tabel ini user dapat melakukan test form tambah buku/peerpustakaan apakah 
 
 | Tampilan                       | URL/ Image                               | Ada  | Tidak |
 | ------------------------------ | ---------------------------------------- | ---- | ----- |
-| Konten Kesenian dan Kebudayaan | [![Tampilan Konten Kesenian dan Budaya](/document/aplikasi/simbada/images/integrasi/56-tampilan-kesenian-kebudayaanpng.png)](/document/aplikasi/simbada/images/integrasi/56-tampilan-kesenian-kebudayaanpng.png) |      |       |
+| Konten Kesenian dan Kebudayaan | [![Tampilan Konten Kesenian dan Budaya](/document/aplikasi/simbada/images/integrasi/56-tampilan-kesenian-kebudayaan.png)](/document/aplikasi/simbada/images/integrasi/56-tampilan-kesenian-kebudayaan.png) |      |       |
 
 Dalam tabel ini user dapat melakukan test kesenian dan kebudayaan apakah sudah dapat di akses oleh user atau tidak, jika sudah dapat di akses maka user dapat ceklis pada kolom ada, jika belum dapat di akses maka user dapat ceklis pada kolom tidak
 
@@ -566,7 +566,7 @@ Dalam tabel ini user dapat melakukan test form tambah tanah RTBU/RTPBU apakah su
 
 | Tampilan                        | URL/ Image                               | Ada  | Tidak |
 | ------------------------------- | ---------------------------------------- | ---- | ----- |
-| Konten Menu RTBU/RTPBU Bangunan | [![Tampilan Konten Menu RTBU/RTPBU Bangunan](/document/aplikasi/simbada/images/integrasi/integrasi/64-tampilan-konten-menu-rtbu-bangunan.png)](/document/aplikasi/simbada/images/integrasi/64-tampilan-konten-menu-rtbu-bangunan.png) |      |       |
+| Konten Menu RTBU/RTPBU Bangunan | [![Tampilan Konten Menu RTBU/RTPBU Bangunan](/document/aplikasi/simbada/images/integrasi/64-tampilan-konten-menu-rtbu-bangunan.png)](/document/aplikasi/simbada/images/integrasi/64-tampilan-konten-menu-rtbu-bangunan.png) |      |       |
 
 Dalam tabel ini user dapat melakukan test menu RTBU/RTPBU bangunan apakah sudah dapat di akses oleh user atau tidak, jika sudah dapat di akses maka user dapat ceklis pada kolom ada, jika belum dapat di akses maka user dapat ceklis pada kolom tidak
 
@@ -630,7 +630,7 @@ Dalam tabel ini user dapat melakukan test jaringan apakah sudah dapat di akses o
 
 | Tampilan                    | URL/ Image                               | Ada  | Tidak |
 | --------------------------- | ---------------------------------------- | ---- | ----- |
-| Konten Form Tambah Jaringan | [![Tampilan Konten Form Tambah Jaringan](/document/aplikasi/simbada/images/integrasi/71-tampilan-rtbu-tambah-jaringan.png.png)](/document/aplikasi/simbada/images/integrasi/71-tampilan-rtbu-tambah-jaringan.png) |      |       |
+| Konten Form Tambah Jaringan | [![Tampilan Konten Form Tambah Jaringan](/document/aplikasi/simbada/images/integrasi/71-tampilan-rtbu-tambah-jaringan.png)](/document/aplikasi/simbada/images/integrasi/71-tampilan-rtbu-tambah-jaringan.png) |      |       |
 
 Dalam tabel ini user dapat melakukan test form tambah jaringan apakah sudah dapat di akses oleh user atau tidak, jika sudah dapat di akses maka user dapat ceklis pada kolom ada, jika belum dapat di akses maka user dapat ceklis pada kolom tidak
 
